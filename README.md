@@ -7,3 +7,4 @@ Next for it to work, you have to change these 4 modules from Runtime to Compile:
 3. eu.hansolo.fx:heatmap:17.0.12
 4. eu.hansolo.fx:countries:17.0.23
 
+!Warning! If you to close programme, before song finishes, an error pops up in console. It still closes and works fine, use this as a reminder.
